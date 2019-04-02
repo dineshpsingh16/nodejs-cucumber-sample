@@ -23,7 +23,7 @@ $ npm install -g cucumber
 After that you may use this project as a base of your development 
 
 ## Credits
-All credit goes to [cucumber team](http://cukes.info), [Node.js community](http://nodejs.org) and 
+All credit goes to [cucumber team](http://cukes.info), [Node.js community](http://nodejs.org),lykmapipo (https://github.com/lykmapipo) and 
 [cucumber-js](https://github.com/cucumber/cucumber-js) authors
 
 ##Licence
